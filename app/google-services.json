@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "992081579180",
+    "firebase_url": "https://brain-dead.firebaseio.com",
+    "project_id": "brain-dead",
+    "storage_bucket": "brain-dead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992081579180:android:5c53222875f82bbb",
+        "android_client_info": {
+          "package_name": "com.adapps.braindead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992081579180-9afncljnr96ghvv3u0drlvp3ub2ntkmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adapps.braindead",
+            "certificate_hash": "5713E8D445843A0E51712D92954D6BC4A2CC542B"
+          }
+        },
+        {
+          "client_id": "992081579180-gvh9l3d1qc8tpj6qavc0mj2q9qe0kjlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZe628WxA1wfHg9WaiiueyCkJbrGa4pys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992081579180-gvh9l3d1qc8tpj6qavc0mj2q9qe0kjlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
