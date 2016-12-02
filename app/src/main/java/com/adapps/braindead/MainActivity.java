@@ -265,7 +265,8 @@ public class MainActivity extends AppCompatActivity
 
     public void download(View view)
     {
-        String servicestring = Context.DOWNLOAD_SERVICE;
+        Toast.makeText(this,"Soon to be added",Toast.LENGTH_SHORT).show();
+        /*String servicestring = Context.DOWNLOAD_SERVICE;
         System.out.println("ghusa dwnld me");
         DownloadManager downloadmanager;
         downloadmanager = (DownloadManager) getSystemService(servicestring);
@@ -273,10 +274,14 @@ public class MainActivity extends AppCompatActivity
                 .parse(L.ImageURL);
         DownloadManager.Request request = new Request(uri);
         Long reference = downloadmanager.enqueue(request);
+        */
     }
 
     public void share(View view)
     {
+        Toast.makeText(this,"Soon to be added",Toast.LENGTH_SHORT).show();
+
+        /*
         Uri uri = Uri.parse("android.resource://com.adapps.braindead/drawable/funny.jpg");
 
         Intent intent = new Intent();
@@ -287,7 +292,7 @@ public class MainActivity extends AppCompatActivity
         intent.setType("image/jpeg");
         intent.setPackage("com.whatsapp");
         startActivity(intent);
-
+*/
     }
 
 }
